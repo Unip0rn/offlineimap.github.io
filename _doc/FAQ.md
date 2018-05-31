@@ -522,7 +522,9 @@ set mbox_type=Maildir
 set folder=$HOME/Maildirpath
 {% endhighlight %}
 
+### What can I configure? Is there a list of options?
 
+Yes, there is! Have a look [here](https://github.com/OfflineIMAP/offlineimap/blob/master/offlineimap.conf).
 
 
 ## Advanced questions
@@ -535,7 +537,7 @@ The procedure is quite the same as [making a backup]({{ site.base
 
 
 
-## Miscellaneous Questions
+## Miscellaneous QuestionsAdvanced
 
 ### I'm using git to install offlineimap and found these branches called "master", "maint", "next" and "pu". What are they?
 
